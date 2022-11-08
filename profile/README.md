@@ -7,7 +7,7 @@ Arcology network A truly scalable L1 blockchain infrastructure. If you are looki
   <img alt="." src="./img/theme.png">
 </picture>
 
-## Architecture :sun:
+## Architecture :sunny:
 
 Arcology adopted an event-driven microservice architecture. Arcology uses [Streamer]() to coordinate different threads in the same process. For inter-process communication (IPC), Arcology relays on Apache Kafka. The overall throughput is proportional to amount of the resources available.
 
