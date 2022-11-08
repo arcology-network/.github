@@ -13,6 +13,8 @@ Arcology adopted an event-driven microservice architecture. Arcology uses [Strea
 
 In case the workload outgrows the resources of a single virtual machine, you can scale up using a machine cluster to run a single node. All you need to do is to change some settings.
 
+:rocket:
+
 ## Parallel Execution :rocket:
 
 Arcology is capable of processing multiple transactions, including arbitrarily complex smart contract calls in pull parallel. The state consistency is strictly protected by the concurrency framework. **Check out how some popular Dapps can benefit from the power of parallel execution.** 
@@ -21,19 +23,18 @@ Arcology is capable of processing multiple transactions, including arbitrarily c
  - [DSToken](https://github.com/arcology-network/parallel-dstoken)
  - [Coin transfers](https://github.com/arcology-network/parallel-coin-transfer)
 
-
 ## Concurrency Libraries
 
 The [concurrency library](https://github.com/arcology-network/concurrent-programing-guide) helps you write [contention](https://en.wikipedia.org/wiki/Resource_contention)-free smart contracts to can take full advantage of Arcology's parallel transaction execution capabilities.
 
 <img src="./img/ConcurrentSample.gif" width="800" height="350" />
 
-## Benchmarking Reports
+## :chart_with_upwards_trend: Benchmarking Reports
 
  - [x] [3rd party](https://arcology.network/docs/arcology-bt-report-final.pdf)
  - [x] [Internal](TBD)
 
-## Quick Links
+## :pushpin: Quick Links
 
 - [x] [Connecting Wallet](exploring/metamask.md)
 - [x] [Writing concurrent smart contracts](https://github.com/arcology-network/concurrent-programing-guide)
