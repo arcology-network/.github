@@ -18,21 +18,23 @@ In case the workload outgrows the resources of a single virtual machine, you can
 Arcology is capable of processing multiple transactions, including arbitrarily complex smart contract calls in pull parallel. The state consistency is strictly protected by the concurrency framework.
 
 ## Concurrency Libraries
+
 The [concurrency library](https://github.com/arcology-network/concurrent-programing-guide) helps you write [contention](https://en.wikipedia.org/wiki/Resource_contention)-free smart contracts to can take full advantage of Arcology's parallel transaction execution capabilities.
 
 <img src="./img/ConcurrentSample.gif" width="800" height="350" />
-<!-- ![alt text](..img/arcology-light.png) -->
 
 ## Showcases
+
 Below are some parallelized smart contracts.
 
- - [x] [CryptoKitties](https://github.com/arcology-network/parallel-kitties)
- - [x] [DSToken](https://github.com/arcology-network/parallel-dstoken)
- - [x] [Coin transfers](https://github.com/arcology-network/parallel-coin-transfer)
+ - [CryptoKitties](https://github.com/arcology-network/parallel-kitties)
+ - [DSToken](https://github.com/arcology-network/parallel-dstoken)
+ - [Coin transfers](https://github.com/arcology-network/parallel-coin-transfer)
 
 ## Benchmarking Reports
-  1. [3rd party](https://arcology.network/docs/arcology-bt-report-final.pdf)
-  2. [Full-scale]()
+
+ - [x] [3rd party](https://arcology.network/docs/arcology-bt-report-final.pdf)
+ - [x] [Internal](TBD)
 
 ## Quick Links
 
@@ -43,8 +45,8 @@ Below are some parallelized smart contracts.
 - [x] [Benchmarking Arcology](benchmarking/benchmarking.md)
 
 ## Get in Touch
-[<code><img height="40" src="../img/arcology-a.png"></code>](https://www.arcology.network)
+[<code><img height="40" src="img/arcology-a.png"></code>](https://www.arcology.network)
 [<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png"></code>](https://twitter.com/ArcologyN)
 [<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code>]()
 [<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code>](https://discord.gg/SkkCtZuAnm)
-[<code><img height="40" src="../img/medium.png"></code>](https://medium.com/arcology-network)
+[<code><img height="40" src="img/medium.png"></code>](https://medium.com/arcology-network)
