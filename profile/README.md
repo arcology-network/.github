@@ -1,4 +1,4 @@
-# Arcology Network
+# Arcology Network 
 
 ## What is Arcology :bell:
 Arcology network A truly scalable L1 blockchain infrastructure. If you are looking for a platform capable of processing tens of thousands complex smart contract calls in full parallel without losing composability, Arcology is your only choice.
@@ -25,7 +25,28 @@ Arcology is capable of processing multiple transactions, including arbitrarily c
 
 The [concurrency library](https://github.com/arcology-network/concurrent-programing-guide) helps you write [contention](https://en.wikipedia.org/wiki/Resource_contention)-free smart contracts to can take full advantage of Arcology's parallel transaction execution capabilities.
 
-<img src="./img/ConcurrentSample.gif" width="800" height="350" />
+
+<a href="https://myoctocat.dev/@sw-yx/octocat">
+  <img align="right" src="./img/ConcurrentSample.gif" width="400" height="175" />
+</a>
+
+#### Write concurrent smart contracts in native Solidity with help from the concurrency framework
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+\
+&nbsp;
+
+
+<!-- *  libraries
+* Access Arcology concurrency framework through Solidity libraries
+* Access Arcology concurrency framework through Solidity libraries -->
+
+
+<!-- <img src="./img/ConcurrentSample.gif" width="800" height="350" /> -->
 
 ## Benchmarking Reports  :chart_with_upwards_trend: 
 
@@ -47,3 +68,4 @@ The [concurrency library](https://github.com/arcology-network/concurrent-program
 [<code><img height="40" src="icons/telegram.svg"></code>]()
 [<code><img height="40" src="icons/discord.svg"></code>](https://discord.gg/SkkCtZuAnm)
 [<code><img height="40" src="icons/medium.svg"></code>](https://medium.com/arcology-network)
+![](https://visitor-badge.glitch.me/badge?page_id=arcology-network)
