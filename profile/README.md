@@ -29,12 +29,12 @@ The [concurrency library](https://github.com/arcology-network/concurrent-program
 
 <img src="./img/ConcurrentSample.gif" width="800" height="350" />
 
-## :chart_with_upwards_trend: Benchmarking Reports
+## Benchmarking Reports  :chart_with_upwards_trend: 
 
  - [x] [3rd party](https://arcology.network/docs/arcology-bt-report-final.pdf)
  - [x] [Internal](TBD)
 
-## :pushpin: Quick Links
+## Quick Links :pushpin:
 
 - [x] [Connecting Wallet](exploring/metamask.md)
 - [x] [Writing concurrent smart contracts](https://github.com/arcology-network/concurrent-programing-guide)
