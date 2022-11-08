@@ -45,8 +45,8 @@ The [concurrency library](https://github.com/arcology-network/concurrent-program
 
 ## Get in Touch
 
-[<code><img height="40" src="img/arcology-a.png"></code>](https://www.arcology.network)
-[<code><img height="40" src="img/twitter.svg"></code>](https://twitter.com/ArcologyN)
-[<code><img height="40" src="img/telegram.svg"></code>]()
-[<code><img height="40" src="img/discord.svg"></code>](https://discord.gg/SkkCtZuAnm)
-[<code><img height="40" src="img/medium.svg"></code>](https://medium.com/arcology-network)
+[<code><img height="40" src="icons/arcology-a.png"></code>](https://www.arcology.network)
+[<code><img height="40" src="icons/twitter.svg"></code>](https://twitter.com/ArcologyN)
+[<code><img height="40" src="icons/telegram.svg"></code>]()
+[<code><img height="40" src="icons/discord.svg"></code>](https://discord.gg/SkkCtZuAnm)
+[<code><img height="40" src="icons/medium.svg"></code>](https://medium.com/arcology-network)
