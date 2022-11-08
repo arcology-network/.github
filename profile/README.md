@@ -17,19 +17,18 @@ In case the workload outgrows the resources of a single virtual machine, you can
 
 Arcology is capable of processing multiple transactions, including arbitrarily complex smart contract calls in pull parallel. The state consistency is strictly protected by the concurrency framework.
 
+Check out how some popular Dapps can benefit from the power of parallel execution.
+
+ - [CryptoKitties](https://github.com/arcology-network/parallel-kitties)
+ - [DSToken](https://github.com/arcology-network/parallel-dstoken)
+ - [Coin transfers](https://github.com/arcology-network/parallel-coin-transfer)
+
+
 ## Concurrency Libraries
 
 The [concurrency library](https://github.com/arcology-network/concurrent-programing-guide) helps you write [contention](https://en.wikipedia.org/wiki/Resource_contention)-free smart contracts to can take full advantage of Arcology's parallel transaction execution capabilities.
 
 <img src="./img/ConcurrentSample.gif" width="800" height="350" />
-
-## Showcases
-
-Below are some parallelized smart contracts.
-
- - [CryptoKitties](https://github.com/arcology-network/parallel-kitties)
- - [DSToken](https://github.com/arcology-network/parallel-dstoken)
- - [Coin transfers](https://github.com/arcology-network/parallel-coin-transfer)
 
 ## Benchmarking Reports
 
