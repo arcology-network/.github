@@ -4,7 +4,7 @@
 Arcology network A truly scalable L1 blockchain infrastructure. If you are looking for a platform capable of processing tens of thousands complex smart contract calls in full parallel without losing composability, Arcology is your only choice.
 
 <picture>
-  <img alt="." src="../img/theme.png" width="800" height="400">
+  <img alt="." src="img/theme.png" width="800" height="400">
 </picture>
 
 ## **Architecture**
@@ -52,7 +52,7 @@ Below are some parallelized smart contracts.
 [<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code>]()
 [<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code>](https://discord.gg/SkkCtZuAnm)
 [<code><img height="40" src="./img/medium.png"></code>](https://medium.com/arcology-network)
-code>]
+
 
 <!-- ## **Languages Used:** -->
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
