@@ -3,9 +3,8 @@
 ## What is Arcology
 Arcology network A truly scalable L1 blockchain infrastructure. If you are looking for a platform capable of processing tens of thousands complex smart contract calls in full parallel without losing composability, Arcology is your only choice.
 
-
 <picture>
-  <img alt="." src="img/theme.png" width="800" height="400">
+  <img alt="." src="./img/theme.png" width="800" height="400">
 </picture>
 
 ## Architecture
@@ -21,7 +20,7 @@ Arcology is capable of processing multiple transactions, including arbitrarily c
 ## Concurrency Libraries
 The [concurrency library](https://github.com/arcology-network/concurrent-programing-guide) helps you write [contention](https://en.wikipedia.org/wiki/Resource_contention)-free smart contracts to can take full advantage of Arcology's parallel transaction execution capabilities.
 
-<img src="img/ConcurrentSample.gif" width="800" height="350" />
+<img src="./img/ConcurrentSample.gif" width="800" height="350" />
 <!-- ![alt text](..img/arcology-light.png) -->
 
 ## Showcases
