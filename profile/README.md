@@ -40,7 +40,7 @@ The [concurrency library](https://github.com/arcology-network/concurrent-program
 - [x] [Arcology Architecture](https://github.com/arcology-network/architecture)
 - [x] [Benchmarking Arcology](benchmarking/benchmarking.md)
 
-## Get in Touch
+## Get in Touch :loudspeaker:
 
 [<code><img height="40" src="icons/arcology-a.png"></code>](https://www.arcology.network)
 [<code><img height="40" src="icons/twitter.svg"></code>](https://twitter.com/ArcologyN)
