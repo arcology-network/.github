@@ -25,28 +25,8 @@ Arcology is capable of processing multiple transactions, including arbitrarily c
 
 The [concurrency library](https://github.com/arcology-network/concurrent-programing-guide) helps you write [contention](https://en.wikipedia.org/wiki/Resource_contention)-free smart contracts to can take full advantage of Arcology's parallel transaction execution capabilities.
 
+<img src="../img/caption.png" height="300"/> <img src="../img/ConcurrentSample.gif" height="300"/> 
 
-<a href="https://myoctocat.dev/@sw-yx/octocat">
-  <img align="right" src="./img/ConcurrentSample.gif" width="400" height="175" />
-</a>
-
-#### Write concurrent smart contracts in native Solidity with help from the concurrency framework
-\
-&nbsp;
-\
-&nbsp;
-\
-&nbsp;
-\
-&nbsp;
-
-
-<!-- *  libraries
-* Access Arcology concurrency framework through Solidity libraries
-* Access Arcology concurrency framework through Solidity libraries -->
-
-
-<!-- <img src="./img/ConcurrentSample.gif" width="800" height="350" /> -->
 
 ## Benchmarking Reports  :chart_with_upwards_trend: 
 
