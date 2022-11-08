@@ -4,7 +4,7 @@
 Arcology network A truly scalable L1 blockchain infrastructure. If you are looking for a platform capable of processing tens of thousands complex smart contract calls in full parallel without losing composability, Arcology is your only choice.
 
 <picture>
-  <img alt="." src="./img/theme.png" width="800" height="400">
+  <img alt="." src="./img/theme.png">
 </picture>
 
 ## Architecture
