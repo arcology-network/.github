@@ -44,6 +44,7 @@ The [concurrency library](https://github.com/arcology-network/concurrent-program
 - [x] [Benchmarking Arcology](benchmarking/benchmarking.md)
 
 ## Get in Touch
+
 [<code><img height="40" src="img/arcology-a.png"></code>](https://www.arcology.network)
 [<code><img height="40" src="img/twitter.svg"></code>](https://twitter.com/ArcologyN)
 [<code><img height="40" src="img/telegram.svg"></code>]()
