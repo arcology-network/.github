@@ -1,6 +1,6 @@
 # Arcology Network
 
-## What is Arcology
+## What is Arcology :bell:
 Arcology network A truly scalable L1 blockchain infrastructure. If you are looking for a platform capable of processing tens of thousands complex smart contract calls in full parallel without losing composability, Arcology is your only choice.
 
 <picture>
@@ -12,8 +12,6 @@ Arcology network A truly scalable L1 blockchain infrastructure. If you are looki
 Arcology adopted an event-driven microservice architecture. Arcology uses [Streamer]() to coordinate different threads in the same process. For inter-process communication (IPC), Arcology relays on Apache Kafka. The overall throughput is proportional to amount of the resources available.
 
 In case the workload outgrows the resources of a single virtual machine, you can scale up using a machine cluster to run a single node. All you need to do is to change some settings.
-
-:rocket:
 
 ## Parallel Execution :rocket:
 
