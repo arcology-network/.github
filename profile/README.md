@@ -41,7 +41,7 @@ Below are some parallelized smart contracts.
 - [x] [Writing concurrent smart contracts](https://github.com/arcology-network/concurrent-programing-guide)
 - [x] [Reading the whitepaper](https://github.com/arcology-network/whitepaper)
 - [x] [Arcology Architecture](https://github.com/arcology-network/architecture)
-- [x] [Benchmarking Arcology](../benchmarking.md)
+- [x] [Benchmarking Arcology](benchmarking.md)
 
 ## Get in Touch
 [<code><img height="40" src="../img/arcology-a.png"></code>](https://www.arcology.network)
