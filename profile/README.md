@@ -7,7 +7,7 @@ Arcology network A truly scalable L1 blockchain infrastructure. If you are looki
   <img alt="." src="./img/theme.png">
 </picture>
 
-## Architecture
+## Architecture :sun:
 
 Arcology adopted an event-driven microservice architecture. Arcology uses [Streamer]() to coordinate different threads in the same process. For inter-process communication (IPC), Arcology relays on Apache Kafka. The overall throughput is proportional to amount of the resources available.
 
@@ -21,7 +21,7 @@ Arcology is capable of processing multiple transactions, including arbitrarily c
  - [DSToken](https://github.com/arcology-network/parallel-dstoken)
  - [Coin transfers](https://github.com/arcology-network/parallel-coin-transfer)
 
-## Concurrency Libraries
+## Concurrency Libraries :pencil:
 
 The [concurrency library](https://github.com/arcology-network/concurrent-programing-guide) helps you write [contention](https://en.wikipedia.org/wiki/Resource_contention)-free smart contracts to can take full advantage of Arcology's parallel transaction execution capabilities.
 
