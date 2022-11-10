@@ -24,7 +24,7 @@ MetaMask is the most popular Ethereum wallet and it can work with Arcology as we
 
 There are a list of pre-created accounts in the docker container with sufficient balances that developers and can use to initiate transactions instead.
 
-* [Select an account](../../resources/accounts.md)
+* [Select an account](../resources/accounts.md)
 * Check the balance
   
 ## 3.2. Truffle
