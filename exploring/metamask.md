@@ -15,21 +15,21 @@ Arcology supports all Ethereum standard RPC APIs. All Ethereum tools and DApps s
 
 MetaMask is the most popular Ethereum wallet and it can work with Arcology as well.
 
-* [Install MetaMask](https://metamask.io/)
+* Install MetaMask
 * Start MetaMask
-* [Add Network](https://github.com/arcology-network/concurrent-programing-guide/resources/network-info.md)
+* [Add Network](../resources/network-info.md)
 
 
 ## 3. Import Accounts
 
 There are a list of pre-created accounts in the docker container with sufficient balances that developers and can use to initiate transactions instead.
 
-* [Select an account](https://github.com/arcology-network/concurrent-programing-guide/resources/accounts.md)
+* [Select an account](../resources/accounts.md)
 * Check the balance
   
 ## 3.2. Truffle
 
-[This document](https://github.com/arcology-network/concurrent-programing-guide/resources/pet-shop.md) guides you through the steps to work with Truffle on Arcology.
+[This document](../resources/pet-shop.md) guides you through the steps to work with Truffle on Arcology.
 
 ## 4. Other Apps
 
