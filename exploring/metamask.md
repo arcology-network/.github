@@ -17,7 +17,7 @@ MetaMask is the most popular Ethereum wallet and it can work with Arcology as we
 
 * Install MetaMask
 * Start MetaMask
-* [Add Network](../../resources/network-info.md)
+* [Add Network](../resources/network-info.md)
 
 
 ## 3. Import Accounts
@@ -29,7 +29,7 @@ There are a list of pre-created accounts in the docker container with sufficient
   
 ## 3.2. Truffle
 
-[This document](./resources/pet-shop.md) guides you through the steps to work with Truffle on Arcology.
+[This document](../resources/pet-shop.md) guides you through the steps to work with Truffle on Arcology.
 
 ## 4. Other Apps
 
