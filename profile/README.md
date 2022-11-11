@@ -25,7 +25,7 @@ Arcology is capable of processing multiple transactions, including arbitrarily c
 
 ## Concurrency Libraries :pencil:
 
-The [concurrency library](https://github.com/arcology-network/concurrent-programing-guide) helps you write [contention](https://en.wikipedia.org/wiki/Resource_contention)-free smart contracts to can take full advantage of Arcology's parallel transaction execution capabilities.
+The [concurrency library](https://docs.arcology.network/arcology-concurrent-programming-guide/) helps you write [contention](https://en.wikipedia.org/wiki/Resource_contention)-free smart contracts to can take full advantage of Arcology's parallel transaction execution capabilities.
 
 <img src="./img/caption3.png" width="190"/> <img src="./img/ConcurrentSample.gif" height="300"/> 
 
@@ -38,8 +38,8 @@ The [concurrency library](https://github.com/arcology-network/concurrent-program
 ## Quick Links :pushpin:
 
 - [x] [Connecting Wallet](exploring/metamask.md)
-- [x] [Writing concurrent smart contracts](https://github.com/arcology-network/concurrent-programing-guide)
-- [x] [Reading the whitepaper](https://github.com/arcology-network/whitepaper)
+- [x] [Writing concurrent smart contracts](https://docs.arcology.network/arcology-concurrent-programming-guide/)
+- [x] [Reading the whitepaper](https://docs.arcology.network/whitepaper)
 - [x] [Arcology Architecture](https://github.com/arcology-network/architecture)
 - [x] [Benchmarking Arcology](benchmarking/benchmarking.md)
 
