@@ -39,7 +39,7 @@ The [concurrency library](https://docs.arcology.network/arcology-concurrent-prog
 
 - [x] [Connecting Wallet](exploring/metamask.md)
 - [x] [Writing concurrent smart contracts](https://docs.arcology.network/arcology-concurrent-programming-guide/)
-- [x] [Reading the whitepaper](https://arcology-network.gitbook.io/arcology-technical-whitepaper/)
+- [x] [Reading the whitepaper](https://docs.arcology.network/arcology-technical-whitepaper/)
 - [x] [Arcology Architecture](https://github.com/arcology-network/architecture)
 - [x] [Benchmarking Arcology](benchmarking/benchmarking.md)
 
