@@ -1,6 +1,6 @@
-# Connect to the AIO Docker Container Image
+# Connect to the AIO Container Image
 
-- [Connect to the AIO Docker Container Image](#connect-to-the-aio-docker-container-image)
+- [Connect to the AIO Container Image](#connect-to-the-aio-container-image)
   - [1. Start the Testnet](#1-start-the-testnet)
     - [1.2. Minimum Requirements](#12-minimum-requirements)
     - [1.3. Install the Docker Engine](#13-install-the-docker-engine)

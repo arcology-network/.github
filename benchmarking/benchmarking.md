@@ -26,11 +26,11 @@ You need the followings for the test.
 
 ### 2.2. Download the Ammolite Container Image
 
-Download and start [Ammolite docker container image](../mode/ammolite-client.md). Mount the transactions files to the right directory.
+Download and start [Ammolite docker container image](../deployment/ammolite-client.md). Mount the transactions files to the right directory.
 
 ### 2.3. Check the Testnet Status
 
-Make sure the [testnet](../mode/troubleshooting/check-testnet-status.md) is up and running. [Deploy a new testnet](../mode/deployment-comparison.md) if you need to.
+Make sure the [testnet](../deployment/troubleshooting/check-testnet-status.md) is up and running. [Deploy a new testnet](../deployment/deployment-comparison.md) if you need to.
 
 ### 2.4. Log in to the Ammolite Container Image
 
