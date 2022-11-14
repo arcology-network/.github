@@ -46,15 +46,11 @@ There are some deployment modes that will give you better performance but they a
 
 ### 4.1. Single Machine Deployment
 
-You may prefer to use their own physical / virtual machine to host an Arcology testnet instead of using the docker container image.
-
-[This deployment mode is more complex than using a out-of-the-box docker container image but it is still easier then setting up a machines cluster.](./single-machine.md) 
+You may prefer to use their own physical / virtual machine to host an Arcology testnet instead of using the docker container image. [The single machine mode](./single-machine.md) is more complex than using a out-of-the-box docker container image, but it is still easier then setting up a machines cluster.
 
 ### 4.2. Cluster Deployment
 
-If you happen to have a bunch of spare machines and necessary network equipments then it is possible to set up an Arcology node cluster.
-
-First, you need the IP and login credential of each machine. Then you need to update IPs in the deployment configuration file. The file tells the installer scripts what services will be installed on which machines and how many instances you would like to have.
+If you happen to have a bunch of spare machines and necessary network equipments then it is possible to set up an Arcology node cluster. You need the IP and login credential of each machine. Then you need to update IPs in the deployment configuration file. The file tells the installer scripts what services will be installed on which machines and how many instances you would like to have.
 
 * [On-premises](https://github.com/arcology-network/deployment)
 * [AWS](https://github.com/arcology-network/aws-ansible)
