@@ -22,7 +22,7 @@ If the network isn't responding, please refer to the section below.
   
 ### 1.1.2. Check Your System
 
- make sure your system meets the [minimum requirements.](../aio-docker####12minimum-requirements)
+ make sure your system meets the [minimum requirements.](https://github.com/arcology-network/.github/blob/main/deployment/aio-docker.md)
 
 ### 1.1.3. Check Your AIO
 
