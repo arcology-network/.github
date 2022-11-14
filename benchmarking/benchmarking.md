@@ -14,23 +14,23 @@
 This document explains how to benchmark Arcology Network.
 
 ## 2. Preparation
-You need the followings for the test.
+You need the followings for the test:
 
+- A live testnet
 - Presigned transactions
-
 - [An Ammolite container image](./ammolite-client.md)
 
-### 2.1. Transactions
+### 2.1. Check the Testnet
+
+Make sure the [testnet](../deployment/troubleshooting/check-testnet-status.md) is up and running. [Deploy a new testnet](../deployment/deployment-comparison.md) if you need to.
+
+### 2.2. Transactions
 
 [Downloaded the transactions](https://github.com/arcology-network/presigned-transactions) first. These files contain all pre-generated transactions for the benchmarking. 
 
-### 2.2. Download the Ammolite Container Image
+### 2.3. Download the Ammolite Container Image
 
 Download and start [Ammolite docker container image](../deployment/ammolite-client.md). Mount the transactions files to the right directory.
-
-### 2.3. Check the Testnet Status
-
-Make sure the [testnet](../deployment/troubleshooting/check-testnet-status.md) is up and running. [Deploy a new testnet](../deployment/deployment-comparison.md) if you need to.
 
 ### 2.4. Log in to the Ammolite Container Image
 
