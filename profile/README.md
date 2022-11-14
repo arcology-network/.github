@@ -13,9 +13,9 @@ Arcology adopted an event-driven microservice architecture. All the key models a
 
 ## Cluster Deployment :desktop_computer: +...+ :desktop_computer:
 
-On Arcology, a node is no longer is a single machine but can be a cluster of computers with different functional modules deployed. Connected by high-speed network, all the machines can work collaboratively to share the workload (execution/storage/bandwidth). The overall throughput is proportional to amount of the resources available. 
+On Arcology, a node is no longer is a single machine but can be a group of computers with different functional modules deployed. Connected by high-speed network, all the machines can work collaboratively to share the workload (execution/storage/bandwidth) like one. The overall throughput is proportional to amount of the resources available. 
 
-In case the workload outgrows the resources of a single virtual machine, you can scale up using a machine cluster to run a single node.
+In case the workload outgrows the resources of a single virtual machine, try the cluster mode.
 
 ## Parallel Execution :rocket:
 
