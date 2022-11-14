@@ -22,7 +22,7 @@ You need the followings for the test.
 
 ### 2.1. Transactions
 
-[DownloadedThe transaction data](https://github.com/arcology-network/presigned-transactions) first. These files contain all pre-generated transactions for the benchmarking. 
+[Downloaded the transactions](https://github.com/arcology-network/presigned-transactions) first. These files contain all pre-generated transactions for the benchmarking. 
 
 ### 2.2. Download the Ammolite Container Image
 
