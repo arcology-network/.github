@@ -42,8 +42,6 @@ The installer package has the below structure
 - `modifyconfig.sh`  is responsible to generate install configuration file based on user information
 - `tools` folder has some miscellaneous tools for data preparation and cleaning.
 
-![alt text](./img/installer-structure.png)
-
 ### 2.4. Host Information
 
 Under the testnet-installer directory, update the installation configuration file with the command below
@@ -61,8 +59,8 @@ Under the testnet-installer directory, update the installation configuration fil
 For example, suppose your have the following login information
 
 - Host machine ip: 192.168.1.109
-- Host username: s9-hpis-monaco-testnet
-- Host password: S9@Hpis.Monaco.Testnet
+- Host username: xxx
+- Host password: xxx
 - Home directory on host: /home/s9-hpis-monaco-testnet/
   
 ```sh
@@ -74,16 +72,13 @@ For example, suppose your have the following login information
 ```sh
 > ./setup.sh
 ```
-
-![alt text](./img/setup_sh.png)
-
 ### 2.7. pre-generated Transactions
 
 The package contains some pre-generated transaction files that can be used directly in testing. Run the command below to
 copy the files to the host machine.
 
 ```
-> scp -r ../txs s9-hpis-monaco-testnet@192.168.1.109:/home/s9-hpis-monaco-testnet/
+> scp -r ../txs xxx@192.168.1.109:/home/s9-hpis-monaco-testnet/
 ```
 
 ### 2.8. Starting the Network
@@ -93,9 +88,6 @@ You should be ready to the start the testnet by now.
 ```sh
 > ./restart.sh
 ```
-
-![alt text](./img/restart_sh.png)
-
 ## 3. Testnet Client
 
 Ammolite is Arcology's network client package written in Python, so can interact with Arcology nodes through HTTP connections. Ammolite to Arcology is like web3.js to Ethereum. You don't to install the package manually as everything is already set up for you in a docker container image.
