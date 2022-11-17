@@ -13,13 +13,13 @@ Arcology adopted an event-driven microservice architecture. All the key models a
 
 ## Cluster Deployment :desktop_computer: +...+ :desktop_computer:
 
-On Arcology, a node is no longer is a single machine but can be a group of computers with different functional modules deployed. Connected by high-speed network, all the machines can work collaboratively to share the workload (execution/storage/bandwidth) like one. The overall throughput is proportional to amount of the resources available. 
+On Arcology, a node is no longer a single machine but can be a group of interconnected computers with functional modules deployed. All the machines can work collaboratively to share the workload (execution/storage/bandwidth) just like one. The overall throughput is proportional to amount of the resources available.
 
 In case the workload outgrows the resources of a single machine, try the cluster mode.
 
 ## Parallel Execution :rocket:
 
-Arcology is capable of processing multiple transactions, including arbitrarily complex smart contract calls in pull parallel. The state consistency is strictly protected by the concurrency framework. **Check out how some popular Dapps can benefit from the power of parallel execution.**  :fire:
+Arcology is capable of processing multiple transactions, including arbitrarily complex smart contract calls in full parallel. The state consistency is always strictly protected by the concurrency framework. **Check out how some popular Dapps can benefit from the power of parallel execution.**  :fire:
  
  - [CryptoKitties](https://github.com/arcology-network/parallel-kitties)
  - [DSToken](https://github.com/arcology-network/parallel-dstoken)
