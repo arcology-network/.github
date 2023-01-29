@@ -25,26 +25,9 @@ Arcology is capable of processing multiple transactions, including arbitrarily c
  - [DSToken](https://github.com/arcology-network/parallel-dstoken)
  - [Coin transfers](https://github.com/arcology-network/parallel-coin-transfer)
 
-## Concurrency Libraries :pencil:
-
-The [concurrency library](https://docs.arcology.network/arcology-concurrent-programming-guide/) helps you write [contention](https://en.wikipedia.org/wiki/Resource_contention)-free smart contracts to take full advantage of Arcology's parallel transaction execution capabilities.
-
 <img src="img/ConcurrentSample4.gif"/> 
 
-
-## Benchmarking Reports  :chart_with_upwards_trend: 
-
- - [x] [3rd party](https://arcology.network/docs/arcology-bt-report-final.pdf)
- <!-- - [x] [Internal](TBD) -->
-
-## Quick Links :pushpin:
-
-- [x] [Start a testnet](deployment/aio-docker.md)
-- [x] [Connecting wallet](exploring/metamask.md)
-- [x] [Writing concurrent smart contracts](https://docs.arcology.network/arcology-concurrent-programming-guide/)
-- [x] [Reading the whitepaper](https://docs.arcology.network/arcology-technical-whitepaper/)
-- [x] [Arcology Architecture](https://github.com/arcology-network/architecture)
-- [x] [Benchmarking Arcology](benchmarking/benchmarking.md)
+## [Arcology Docs](https://docs.arcology.network/product-docs/overview/welcome-to-arcology-network) :book:
 
 ## Get in Touch :loudspeaker:
 
