@@ -13,7 +13,7 @@
 
 ## 1. Start the Testnet
 
-Using the AIO docker container image is the easiest way to set up a fully functional testnet locally. Once the testnet is running you can start interact with it through standard [Ethereum jason RPC API.](https://github.com/ethereum/execution-apis)
+Using the AIO docker container image is the easiest way to set up a fully functional testnet locally. Once the testnet is running you can start interacting with it through standard [Ethereum jason RPC API.](https://github.com/ethereum/execution-apis)
 
 ![alt text](./img/testnet-container.svg)
 
