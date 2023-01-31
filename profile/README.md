@@ -27,6 +27,9 @@ Arcology is capable of processing multiple transactions, including arbitrarily c
 
 <img src="img/ConcurrentSample4.gif"/> 
 
+## Tindermint
+Arcology uses Tendermint consensus with some changes made to improve concurrency and performance. 
+
 ## [Arcology Docs](https://docs.arcology.network/product-docs/overview/welcome-to-arcology-network) :book:
 
 ## Get in Touch :loudspeaker:
