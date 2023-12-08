@@ -3,7 +3,6 @@
 ## What is Arcology :bell:
 Welcome to Arcology, the world's first parallel Ethereum L2 blockchain infrastructure, specifically designed as an Ethereum Layer 2 rollup solution. If you are looking for a platform capable of processing tens of thousands complex smart contract calls in full parallel without losing composability, Arcology is your only choice.
 
-
 <picture>
   <img alt="." src="./img/theme4.png">
 </picture>
@@ -21,7 +20,7 @@ Seamlessly transition your smart contracts to Arcology without modification. It 
 
 Arcology features a concurrent API in native Solidty, making it easy for smart contract developers to parallelize their contracts with minimal effort.
 
-<img src="img/ConcurrentSample4.gif"/> 
+<img src="img/ConcurrentSample.gif"/> 
 
 
 ## Optimal Efficiency and Minimal Cost
@@ -49,3 +48,4 @@ In case the workload outgrows the resources of a single machine, try the cluster
 [<code><img height="40" src="icons/medium.svg"></code>](https://medium.com/arcology-network) -->
 [<code><img height="40" src="icons/email.png"></code>](mailto:info@arcology.network)
 ![](https://visitor-badge.glitch.me/badge?page_id=arcology-network)
+
