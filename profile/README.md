@@ -26,6 +26,12 @@ Arcology features a concurrent API in native Solidty, making it easy for smart c
 
 <img src="/img/ConcurrentSample.gif" width=100% height=100%>
 
+<img src="/img/ConcurrentSample.gif" width=120% height=120%>
+
+<img src="/img/ConcurrentSample.gif" width=150% height=150%>
+
+
+
 ## Optimal Efficiency and Minimal Cost
 
 Arcology delivers optimal efficiency at negligible costs, making it a top choice for developers seeking high-performance, low-cost platform for their large-scale application.
