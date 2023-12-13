@@ -14,7 +14,7 @@ Arcology is capable of processing multiple transactions, including arbitrarily c
 
 ## EVM Equivalent
 
-Seamlessly transition your smart contracts to Arcology without modification. It maintains full EVM equivalence, ensuring compatibility with the broader Ethereum ecosystem.
+It maintains full EVM equivalence. You can deploy your smart contracts to Arcology without modification and vice versa as long as you **don't** use any Arcology concurrent API in the source code.
 
 ## Concurrent API in Solidty
 
@@ -22,9 +22,9 @@ Arcology features a concurrent API in native Solidty, making it easy for smart c
 
 <img src="/img/ConcurrentSample.gif" width=150% height=150%>
 
-## Optimal Efficiency and Minimal Cost
+## Example APPs
 
-Arcology delivers optimal efficiency at negligible costs, making it a top choice for developers seeking high-performance, low-cost platform for their large-scale application.
+Here is a list of applications parallelized with the Concurrent API. Let us know if you'd like to add yours to the list.
 
  - [CryptoKitties](https://github.com/arcology-network/parallel-kitties)
  - [DSToken](https://github.com/arcology-network/parallel-dstoken)
@@ -34,7 +34,6 @@ Arcology delivers optimal efficiency at negligible costs, making it a top choice
 
 On Arcology, a node is no longer a single machine but can be a group of interconnected computers with functional modules deployed. All the machines can work collaboratively to share the workload (execution/storage/bandwidth) just like one. The overall throughput is proportional to amount of the resources available.
 
-In case the workload outgrows the resources of a single machine, try the cluster mode.
 
 ## [Arcology Docs](https://doc.arcology.network/product-docs/overview/welcome-to-arcology-network) :book:
 
