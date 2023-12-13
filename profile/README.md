@@ -20,17 +20,7 @@ Seamlessly transition your smart contracts to Arcology without modification. It 
 
 Arcology features a concurrent API in native Solidty, making it easy for smart contract developers to parallelize their contracts with minimal effort.
 
-<img src="img/ConcurrentSample.gif"/> 
-
-<img src="/img/ConcurrentSample.gif" width=50% height=50%>
-
-<img src="/img/ConcurrentSample.gif" width=100% height=100%>
-
-<img src="/img/ConcurrentSample.gif" width=120% height=120%>
-
 <img src="/img/ConcurrentSample.gif" width=150% height=150%>
-
-
 
 ## Optimal Efficiency and Minimal Cost
 
