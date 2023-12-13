@@ -45,5 +45,4 @@ On Arcology, a node is no longer a single machine but can be a group of intercon
 [<code><img height="40" src="icons/discord.svg"></code>](https://discord.gg/SkkCtZuAnm) 
 [<code><img height="40" src="icons/medium.svg"></code>](https://medium.com/arcology-network) -->
 [<code><img height="40" src="icons/email.png"></code>](mailto:info@arcology.network)
-![](https://visitor-badge.glitch.me/badge?page_id=arcology-network)
 
