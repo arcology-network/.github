@@ -21,7 +21,7 @@ It maintains full EVM equivalence. You can deploy your smart contracts to Arcolo
 Arcology features a concurrent API in native Solidty, making it easy for smart contract developers to parallelize their contracts with minimal effort.
 
 <p align="center">
-  <img src="./img/coin-contract.gif" alt="code" width="1128" height="666">
+  <img src="./img/coin-contract.gif" alt="code" width="1128">
 </p>
 
 ## Example APPs
