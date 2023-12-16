@@ -12,7 +12,7 @@ Welcome to Arcology, the world's first parallel Ethereum L2 blockchain infrastru
 Arcology is capable of processing multiple transactions, including arbitrarily complex smart contract calls in full parallel. The state consistency is always strictly protected by the concurrency framework. Arcology effortlessly handles tens of thousands of transactions per second.
 
 <p align="center">
-<img src="./img/multi-evm.svg" alt="multi evms" height="330">
+<img src="./img/multi-evm.svg" alt="multi evms" height="300">
 </p>
 
 ## EVM Equivalent
