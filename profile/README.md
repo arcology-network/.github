@@ -1,18 +1,19 @@
 # Arcology Network 
+<picture>
+  <img alt="." src="../img/theme4.png">
+</picture>
 
 ## What is Arcology :bell:
 Welcome to Arcology, the world's first parallel Ethereum L2 blockchain infrastructure, specifically designed as an Ethereum Layer 2 rollup solution. If you are looking for a platform capable of processing tens of thousands complex smart contract calls in full parallel without losing composability, Arcology is your only choice.
 
-<picture>
-  <img alt="." src="./img/theme4.png">
-</picture>
+
 
 ## Parallel Execution :rocket:
 
 Arcology is capable of processing multiple transactions, including arbitrarily complex smart contract calls in full parallel. The state consistency is always strictly protected by the concurrency framework. Arcology effortlessly handles tens of thousands of transactions per second.
 
 <p align="center">
-<img src="./img/multi-evm.svg" alt="multi evms" height="300">
+<img src="../img/multi-evm.svg" alt="multi evms" height="300">
 </p>
 
 ## EVM Equivalent
