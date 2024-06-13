@@ -1,6 +1,6 @@
 # Arcology Network 
 <picture>
-  <img alt="." src="./img/theme4.png">
+  <img alt="." src="./img/github-theme.gif">
 </picture>
 
 ## What is Arcology :bell:
