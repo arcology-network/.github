@@ -1,7 +1,7 @@
 # Arcology Network 
 <!-- <picture> -->
   <!-- <img alt="." src="./img/github-theme.gif"> -->
-  ![](/img/github-theme.gif)
+  <!-- ![](/img/github-theme.gif) -->
 <!-- </picture> -->
 
 ## What is Arcology :bell:
