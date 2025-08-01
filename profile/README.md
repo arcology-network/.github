@@ -24,7 +24,13 @@ Arcology features a concurrent API in native Solidty, making it easy for smart c
 
 ![](/img/coin-contract.gif)
 
-## Example APPs
+
+## Nettedswap
+
+[Nettedswap](https://github.com/arcology-network/nettedswap) is a high-performance AMM DEX built on the Uniswap v3 codebase. It adds an **on-chain netting layer** that batches and offsets trades before they reach liquidity pools, significantly reducing slippage, mitigating MEV, and enabling massive parallel execution.
+
+
+## Other Example APPs
 
 Here is a list of applications parallelized with the Concurrent API. Let us know if you'd like to add yours to the list.
 
